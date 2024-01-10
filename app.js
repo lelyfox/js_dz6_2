@@ -13,7 +13,7 @@ for (let i = 0; i < Infinity; i++){
                 arr.splice(a, 1)
             }
         }
-    }else if (word == 'stop'){
+    }else if (array[0] == 'stop'){
         break;
     }
 console.log(arr);
